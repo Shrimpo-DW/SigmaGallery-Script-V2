@@ -1,6 +1,7 @@
 -- =============================================================================
 -- CONFIGURAÇÃO DO REPOSITÓRIO GITHUB
 -- =============================================================================
+task.wait()
 local GITHUB_USER = "Shrimpo-DW"
 local GITHUB_REPO = "SigmaGalleryv2Files"
 
